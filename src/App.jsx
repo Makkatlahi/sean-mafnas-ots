@@ -178,7 +178,7 @@ function App() {
               <div className="stat">
                 <span className="stat-value">20</span>
                 <div>
-                  <strong>Personnel Led</strong>
+                  <strong>Personnel Lead</strong>
                   <p>U.S. Army logistics operation</p>
                 </div>
               </div>
